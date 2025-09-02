@@ -60,3 +60,7 @@ O objetivo é criar um sistema simples de gerenciamento de produtos de uma loja,
 4. Trabalhar com **listas dinâmicas (`ArrayList`)** para armazenamento de produtos.
 5. Implementar métodos para manipulação dos dados (exibir, vender, repor).
 6. Praticar lógica de negócio com condições (`if/else`) no controle de estoque.
+
+---
+
+💡 *Se você gostou deste projeto, deixe uma ⭐ no repositório!*
